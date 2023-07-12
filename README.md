@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @laradeaque
 - 👀 I’m interested in AI and specifically AGI.
 - 💞️ I’m looking to collaborate on any project involving broad AI or autonomous vehicles.
+- I love Chemistry and enjoy learning new Chemistry Concepts
 - 📫 You can reach me through:
             email: aquelarade@gmail.com
 
